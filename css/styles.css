@@ -59,6 +59,15 @@ footer {
 
 @media (max-width: 310px) {
   .container {
-    margin-top: 40px;
+    margin-top: 30px;
+  }
+  footer {
+    height: 2rem;
+  }
+  .attribution {
+    top: 1rem;
+  }
+  span {
+    display: block;
   }
 }

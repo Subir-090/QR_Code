@@ -21,6 +21,10 @@ body {
   text-decoration: none;
 }
 
+.attribution a:hover {
+  color: white;
+}
+
 .container {
   width: 280px;
   background-color: white;

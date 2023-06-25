@@ -11,11 +11,12 @@ body {
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 20px;
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(247.02deg 82.39% 43.21%);
+  text-decoration: none;
 }
 
 .container {
@@ -44,6 +45,14 @@ p {
   width: 220px;
   margin: auto;
   font-size: 15px;
+}
+
+footer {
+  position: fixed;
+  background-color: hsl(220, 15%, 55%);
+  height: 7.5rem;
+  bottom: 0;
+  width: 100%;
 }
 
 @media (max-width: 310px) {

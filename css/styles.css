@@ -14,7 +14,7 @@ body {
   font-size: 20px;
   text-align: center;
   position: relative;
-  top: 3.25rem;
+  top: 2.5rem;
 }
 .attribution a {
   color: hsl(247.02deg 82.39% 43.21%);
@@ -52,17 +52,17 @@ p {
 footer {
   position: fixed;
   background-color: hsl(220, 15%, 55%);
-  height: 7.5rem;
+  height: 6.5rem;
   bottom: 0;
   width: 100%;
 }
 
-@media (max-width: 310px) {
+@media (max-width: 700px) {
   .container {
     margin-top: 30px;
   }
   footer {
-    height: 2rem;
+    height: 5rem;
   }
   .attribution {
     top: 1rem;
